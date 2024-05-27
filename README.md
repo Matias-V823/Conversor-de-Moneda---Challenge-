@@ -1,2 +1,2 @@
 # Conversor-de-Moneda---Challenge-
-Programa Conversor de Moneda, desarrollado en Java, realiza una solicitud a una API de tasas de cambio, maneja datos en formato JSON y presenta los resultados de manera clara y útil. Este desafío está diseñado para brindar una experiencia práctica en el desarrollo de aplicaciones Java.
+Este repositorio contiene el código fuente de un Conversor de Moneda desarrollado en Java. Este proyecto realiza solicitudes a una API de tasas de cambio, maneja datos en formato JSON y presenta los resultados de manera clara y útil. El objetivo principal es proporcionar una experiencia práctica en el desarrollo de aplicaciones Java, integrando habilidades de manejo de APIs, procesamiento de datos y creación de interfaces de usuario.

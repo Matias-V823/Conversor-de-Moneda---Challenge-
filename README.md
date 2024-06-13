@@ -7,4 +7,5 @@ Este repositorio contiene el código fuente de un Conversor de Moneda desarrolla
 
 Dependencias
 El programa utiliza las siguientes dependencias:
+
 Gson 2.10.1: Para el manejo de la deserialización de JSON desde la API de tipo de cambio.
